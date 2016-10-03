@@ -9,7 +9,7 @@ public class hw1 {
 
 		String lyrics1 = lyrics.replaceAll("Cannot","Can't");
 		
-		System.out.println(lyrics1.replaceAll("it","her"));
+		System.out.println(lyrics1.replaceAll("it","\"her\""));
 	}
 
 }
